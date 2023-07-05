@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://olinonee.com/blog/sitemap.xml
+Sitemap: https://olinonee.com/./sitemap.xml
